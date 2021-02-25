@@ -4,7 +4,10 @@ git是一个版本库来的
 这是第一次修改练习
 这次的修改用来理解git 缓存
 
+Creating a new branch is quick and simple.
 
-Creating a new branch is quick.
-
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
