@@ -6,8 +6,4 @@ git是一个版本库来的
 
 Creating a new branch is quick and simple.
 
-<<<<<<< HEAD
-Creating a new branch is quick & simple.
-=======
-Creating a new branch is quick AND simple.
->>>>>>> feature1
+这是新的dev分支提交
